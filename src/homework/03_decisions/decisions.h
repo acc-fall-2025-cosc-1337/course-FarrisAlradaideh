@@ -8,7 +8,6 @@ std::string get_letter_grade_using_switch(int numerical_grade);
 
 #endif
 
-
 }
 
 
